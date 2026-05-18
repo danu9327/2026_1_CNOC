@@ -3,7 +3,7 @@
 data/Splunk_BOTSv3/*
 data/Suricata/*
 data/Zeek/*
-
+data/
 !data/Splunk_BOTSv3/.gitkeep
 !data/Suricata/.gitkeep
 !data/Zeek/.gitkeep
